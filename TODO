@@ -1,0 +1,6 @@
+new rules
+
+* check for PieceInfo in XObjects
+* check page scaling isn't used
+* upate page width/height rules to account for page scaling
+* upate page width/height rules to account for page rotation
